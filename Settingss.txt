@@ -1,0 +1,7 @@
+‎{
+‎  "bot_token": "8699000605:AAFNu66RxuzOXu7vN-VkdafBge2TS6FbSr4",
+‎  "account_sid": "AC1790c89bc3234db12ebc13742014687e",
+‎  "auth_token": "5ffe885f3f8e39f38ee631df50ef50b6",
+‎  "ngrok_url": "https://nonillustratively-heterologous-nettie.ngrok-free.dev",
+‎  "Twilio Phone Number": "+19788611053"
+‎}
